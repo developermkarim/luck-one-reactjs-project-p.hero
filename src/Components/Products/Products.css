@@ -1,0 +1,37 @@
+.cart-style{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    border-radius: 5px 5px 0px 0px;
+   
+}
+
+
+.cart-style img{
+    padding: 15px;
+   
+}
+
+.btn-design{
+    background-color:#0398ca;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+    border-radius: 5px 5px 0px 0px;
+    outline: none;
+    border: none;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    
+}
+.btn-design:hover{
+    background-color: #005875;
+}
+.btn-design p{
+    margin-right: 10px;
+}

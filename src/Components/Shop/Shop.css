@@ -1,0 +1,28 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 10px;
+}
+.product-container{
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+gap: 25px;
+}
+.cart-container{
+background-color: #0398ca;
+height: 550px;
+position: sticky;
+top: 0;
+text-align: center;
+}
+
+ /* Responsive for Media device */
+ @media (max-width:1024px){
+    .product-container{
+         display: grid;
+grid-template-columns: repeat(1, 1fr);
+gap: 25px;
+    }
+   
+} 
+

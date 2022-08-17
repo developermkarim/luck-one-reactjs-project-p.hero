@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "model": "Google Pixel 3",
+        "image": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-3xl-4.jpg",
+        "price": 799
+    },
+    {
+        "id": 2,
+        "model": "Samsung Note 9",
+        "image": "https://www.notebookcheck.net/uploads/tx_nbc2/4_zu_3_teaser_Galaxy_Note9_img_product_blue_01.jpg",
+        "price": 999
+    },
+    {
+        "id": 3,
+        "model": "Apple iPhone XS",
+        "image": "https://www.gizmochina.com/wp-content/uploads/2018/09/Apple-iPhone-Xs-600x600.jpg",
+        "price": 999
+    },
+    {
+        "id": 4,
+        "model": "Samsung Galaxy S9+",
+        "image": "https://www.mytrendyphone.eu/images2/Scratch-Resistant-TPU-Case-for-Samsung-Galaxy-S9-plus-crystal-clear-07062018-01-p.jpg",
+        "price": 840
+    },
+    {
+        "id": 5,
+        "model": "Xiaomi Pocophone F1",
+        "image": "https://www.mobiledokan.co/wp-content/uploads/2018/11/Xiaomi-Pocophone-F1.jpg",
+        "price": 300
+    },
+    {
+        "id": 6,
+        "model": "Xiaomi Mi 8",
+        "image": "https://sc04.alicdn.com/kf/H3ca6b147330b4148be0867ce1a296c66A.jpg",
+        "price": 400
+    },
+    {
+        "id": 7,
+        "model": "Huawei Mate 10 Pro",
+        "image": "https://www.mobiledokan.co/wp-content/uploads/2019/01/Huawei-Mate-10-Pro.jpg",
+        "price": 800
+    },
+    {
+        "id": 20,
+        "model": "Samsung Galaxy A7 (2018)",
+        "image": "https://i.gadgets360cdn.com/products/large/1537419896_635_galaxy_a7_2018.jpg",
+        "price": 533
+    },
+
+    {
+    "id" : 26,
+    "model": "Iphone 12 Pro Max",
+    "image": "https://m-cdn.phonearena.com/images/articles/367425-940/P1640557.jpg",
+    "price" : 1020
+    },
+    {
+    "id" : 29,
+    "model": "Iphone 13 Pro Max",
+    "image": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iPhone-13-Pro_Colors_09142021_big.jpg.large.jpg",
+    "price" : 900
+    },
+    {
+    "id" : 45,
+    "model": "Samsung Galaxy S22",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/samsung-galaxy-s22-ultra-1644419708.jpg?crop=0.612xw:0.916xh;0.147xw,0.0839xh&resize=640:*",
+    "price" : 789
+    }
+]
